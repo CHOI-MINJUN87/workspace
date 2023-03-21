@@ -6,4 +6,9 @@
 * https://drive.google.com/file/d/1PVikvKitrRutbnaE-u2AOJHyO0BZvwwb/view?usp=share_link
 
 
+swagger-ui
+ >  http://localhost:8080/swagger-ui/index.htm
+
+h2 database
+ > http://localhost:8080/h2-console/login.jsp
 
